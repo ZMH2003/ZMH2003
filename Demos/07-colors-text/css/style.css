@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box; 
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+    color: rgb(48, 11, 86);
+    background-color:coral;
+    font-style: italic;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+    font-family: serif;
+
+}
+
+#second-paragraph {
+    color: hsl(180, 81%, 18%);
+    background-color:rgb(117, 152, 218);
+    text-align: center;
+    font-size: 44px;
+    text-decoration: line-through;
+    font-family: san-sarif; 
+}
+
+#bold-paragraph {
+    font-weight: bold;
+    background-color:pink;
+    color: rgb(78, 6, 6);
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+
+}
+
+#span1 {
+    color:blue;
+    font-weight:bold;
+    font-size:48px;
+    
+}
+
+#span2 {
+    color: rgb(196, 116, 130);
+    font-weight: bold;
+    font-size:44px;
+}
+
+#span3 {
+    color:blueviolet;
+    font-weight: bold;
+    font-size: 44px;
+}
+
+#span {
+    color:aquamarine;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+
+
+
+
