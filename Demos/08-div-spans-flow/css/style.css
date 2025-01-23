@@ -6,3 +6,9 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+
+.narrow {
+    width: 49.5%;                 
+    display: inline-block;
+    background-color: hotpink
+}
