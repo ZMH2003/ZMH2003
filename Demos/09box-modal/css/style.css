@@ -7,7 +7,7 @@ body {
     font-family: sans-serif;
 }
 
-div {
+#div1 {
     border: 20px ridge black;
     /* border-width: 1px;
     border-style: soild;
@@ -21,10 +21,55 @@ div {
     padding-right: 80px;
     color: white;
     background-color: black;
-    
-    
+
 }
-p {
+#div2 {
+    border: 20px ridge black;
+    /* border-width: 1px;
+    border-style: soild;
+    border-color: black; */
+    border-radius: 100px;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    padding: 20px;
+    padding-right: 80px;
+    color: white;
+    background-color: black;
+}
+#div3 {
+    border: 20px ridge black;
+    /* border-width: 1px;
+    border-style: soild;
+    border-color: black; */
+    border-radius: 100px;
+    margin-right: 200px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    padding: 20px;
+    padding-right: 80px;
+    color: white;
+    background-color: black;
+}
+
+#p1 {
+    border: 20px ridge darkred;
+    /* border-width: 1px;
+    border-style: soild;
+    border-color: hotpink; */
+    border-radius: 100px;
+    margin-left: 2px;
+    margin-top: 40px;
+    margin-right: 20px;
+    padding: 20px;
+    padding-left: 80px;
+    background-color: darkred;
+    color: white;
+}
+
+#p2 {
     border: 20px ridge darkred;
     /* border-width: 1px;
     border-style: soild;
@@ -37,9 +82,23 @@ p {
     padding-left: 80px;
     background-color: darkred;
     color: white;
-    
-    
 }
+
+#p3 {
+    border: 20px ridge darkred;
+    /* border-width: 1px;
+    border-style: soild;
+    border-color: hotpink; */
+    border-radius: 100px;
+    margin-left: 2px;
+    margin-top: 40px;
+    margin-right: 10px;
+    padding: 20px;
+    padding-left: 80px;
+    background-color: darkred;
+    color: white;
+}
+
 h1 {
     text-align: center;
     border: 20px ridge darkred;
@@ -53,6 +112,25 @@ h1 {
 
 h4 {
     text-align: center;
-    border: 2px solid;
+    border: 2px ridge;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 100px;
     
+}
+
+h5 {
+    border: 10px solid darkred;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 50px;
+    color: white;
+    background-color: darkred;
+    
+
+
 }
