@@ -1,0 +1,45 @@
+/* Drill 1 - Write your code solution below */
+p.red {
+    padding: 20px;
+}
+
+p.orange {
+    padding: 20px;
+    color: limegreen;
+}
+
+/* Drill 2 - Write your code solution below */
+p.purple {
+    color: orangered;
+}
+
+p.blue {
+    color: orangered;
+}
+
+/* Drill 3 - Write your code solution below */
+p.green {
+    border-style: dashed;
+    border-color: green;
+    border-width: 5px;
+    padding: 20px
+}
+span {
+    color: magenta;
+}
+
+p.purple {
+    border-style:dotted;
+    color: black;
+    border-width: 10px;
+    padding: 20px;
+}
+/* Drill 4 - Write your code solution below */
+.shadowed p {
+    background-color: skyblue;
+}
+
+/* Drill 5 - Write your code solution below */
+
+
+
